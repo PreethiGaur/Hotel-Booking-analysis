@@ -1,13 +1,32 @@
-# Hotel-Booking-analysis
-End-to-end hotel booking data analysis using SQL, Python, and Tableau.  Includes data cleaning, exploratory analysis, KPI creation, and interactive dashboards.
+# 🏨 Hotel Booking Analysis
 
-## 📊 SQL KPIs
+An end-to-end data analysis project on hotel booking data using **SQL, Python, and Tableau**.  
+This project focuses on understanding booking patterns, cancellations, revenue impact, and key performance indicators (KPIs).
 
-The following key performance indicators (KPIs) were calculated using Oracle SQL:
+---
 
-- Total Bookings  
-- Total Cancellations  
-- Cancellation Rate (%)  
-- Average Daily Rate (ADR)  
+## 📌 Project Objectives
+- Analyze hotel booking behavior
+- Identify cancellation trends
+- Calculate key KPIs for business insights
+- Visualize findings for better decision-making
+
+---
+
+## 🛠️ Tools & Technologies
+- **SQL (Oracle SQL)** – KPI calculation & querying
+- **Python** – Data cleaning & exploratory analysis
+- **Tableau** – Interactive dashboards & visualizations
+
+---
+
+## 📊 Key SQL KPIs
+The following KPIs were calculated using SQL:
+- Total Bookings
+- Total Cancellations
+- Cancellation Rate (%)
+- Average Daily Rate (ADR)
 - Average Lead Time
+- Lost Revenue due to Cancellations
 
+---
