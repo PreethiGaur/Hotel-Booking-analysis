@@ -30,3 +30,20 @@ The following KPIs were calculated using SQL:
 - Lost Revenue due to Cancellations
 
 ---
+
+📷 Visual Insights
+
+All charts and visual outputs generated from SQL, Python, and Tableau are available in the
+👉 screenshots/ folder.
+
+🚀 Outcome
+
+This analysis provides actionable insights into:
+
+Seasonal booking trends
+
+High cancellation segments
+
+Revenue loss patterns
+
+Customer booking behavior
