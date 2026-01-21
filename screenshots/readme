@@ -1,1 +1,47 @@
+# 📷 Screenshots & Visualizations
+
+This folder contains all charts and visual outputs generated during the **Hotel Booking Analysis** project.
+
+These screenshots support the insights derived from **SQL queries, Python analysis, and Tableau dashboards**.
+
+---
+
+## 📊 Visuals Included
+
+The screenshots in this folder cover the following analyses:
+
+- 📈 **Average Daily Rate (ADR)** by hotel type  
+- ⏳ **Average Lead Time** for bookings  
+- 📆 **Bookings by Month and Year**  
+- ❌ **Cancellation Rate** by:
+  - Hotel type  
+  - Arrival month  
+  - Lead time  
+  - Market segment  
+- 💸 **Lost Revenue** due to cancellations by hotel type  
+
+---
+
+## 🧠 Purpose of This Folder
+
+- To visually support KPI calculations
+- To present insights in a clear and understandable way
+- To enhance project documentation and portfolio presentation
+- To provide quick reference visuals for stakeholders
+
+---
+
+## 🗂️ File Naming Convention
+
+All files are named descriptively to reflect the analysis performed.  
+Examples:
+
+- `avg_adr_by_hoteltype.png`
+- `cancel_rate_by_lead_time.png`
+- `bookings_by_month_and_year.png`
+- `lost_revenue_by_hotel_type.png`
+
+---
+
+✅ *All visuals are generated specifically for this project and reflect real analytical findings.*
 
